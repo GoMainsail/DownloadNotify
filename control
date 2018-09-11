@@ -1,0 +1,9 @@
+Package: com.rustybalboadev.downloadnotify
+Name: DownloadNotify
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Maddox
+Author: Maddox
+Section: Tweaks
