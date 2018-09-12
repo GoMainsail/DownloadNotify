@@ -1,2 +1,2 @@
 # DownloadNotify
-Notify The User With a Notification When A App/Game is Done Downloading.
+Notifies users when apps are finished downloading.
